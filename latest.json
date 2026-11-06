@@ -1,42 +1,42 @@
 {
   "app": "me.aoyu.androidapp",
   "name": "AoYume",
-  "version": "1.0.141+4145",
-  "versionName": "1.0.141",
-  "versionCode": 4145,
-  "tag": "v1.0.141+4145",
-  "publishedAt": "2026-11-06T19:50:29Z",
+  "version": "1.0.142+4148",
+  "versionName": "1.0.142",
+  "versionCode": 4148,
+  "tag": "v1.0.142+4148",
+  "publishedAt": "2026-11-06T23:31:33Z",
   "minSdk": 26,
   "certSha256": "d67c68439ff11e8571fd30edf14a6240d0948f826e3af9304c7e82102e2e3bc5",
-  "releaseUrl": "https://github.com/ao-yume/aoyume-android/releases/tag/v1.0.141+4145",
+  "releaseUrl": "https://github.com/ao-yume/aoyume-android/releases/tag/v1.0.142+4148",
   "assets": {
     "arm64-v8a": {
-      "file": "AoYume-1.0.141+4145-arm64-v8a.apk",
+      "file": "AoYume-1.0.142+4148-arm64-v8a.apk",
       "stableUrl": "https://github.com/ao-yume/aoyume-android/releases/latest/download/AoYume-arm64-v8a.apk",
-      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.141+4145/AoYume-1.0.141+4145-arm64-v8a.apk",
-      "size": 45368413,
-      "sha256": "858dbd67fd165f1d4be628e822c751f98a918395f55de1a3ad3ef9b6479b97ef"
+      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.142+4148/AoYume-1.0.142+4148-arm64-v8a.apk",
+      "size": 45368457,
+      "sha256": "91e9872db0f2693908fcc67572eb96c1baaf207cbf0ecb0117915be9e8f43186"
     },
     "armeabi-v7a": {
-      "file": "AoYume-1.0.141+4145-armeabi-v7a.apk",
+      "file": "AoYume-1.0.142+4148-armeabi-v7a.apk",
       "stableUrl": "https://github.com/ao-yume/aoyume-android/releases/latest/download/AoYume-armeabi-v7a.apk",
-      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.141+4145/AoYume-1.0.141+4145-armeabi-v7a.apk",
-      "size": 42598973,
-      "sha256": "a3873810be07abdac5b8348f1be0afdd1a8281e8a182057d3ce888549ad9663e"
+      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.142+4148/AoYume-1.0.142+4148-armeabi-v7a.apk",
+      "size": 42599017,
+      "sha256": "9d0fabb4779842376f1a9e404f52e44c9aa47468378d93f679b37cbbe122de0e"
     },
     "x86_64": {
-      "file": "AoYume-1.0.141+4145-x86_64.apk",
+      "file": "AoYume-1.0.142+4148-x86_64.apk",
       "stableUrl": "https://github.com/ao-yume/aoyume-android/releases/latest/download/AoYume-x86_64.apk",
-      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.141+4145/AoYume-1.0.141+4145-x86_64.apk",
-      "size": 50404299,
-      "sha256": "adb560b6b71fc61ddaf46e40e50834ec98b609234bf3b4ae75603665df898140"
+      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.142+4148/AoYume-1.0.142+4148-x86_64.apk",
+      "size": 50404343,
+      "sha256": "42da0f76cca25b5614d1212a97cfb2f1c10ad365760cc2e0b6b54ffdc3e56a70"
     },
     "universal": {
-      "file": "AoYume-1.0.141+4145-universal.apk",
+      "file": "AoYume-1.0.142+4148-universal.apk",
       "stableUrl": "https://github.com/ao-yume/aoyume-android/releases/latest/download/AoYume-universal.apk",
-      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.141+4145/AoYume-1.0.141+4145-universal.apk",
-      "size": 120512369,
-      "sha256": "de184e2ef55173eacd9349ac7123e15f7d60a961ed8e9033e9ad3c75bf2187c5"
+      "immutableUrl": "https://github.com/ao-yume/aoyume-android/releases/download/v1.0.142+4148/AoYume-1.0.142+4148-universal.apk",
+      "size": 120512413,
+      "sha256": "7b96f8424375140b00f5bf41da21bbbcf34195585b24e9f77fac9b9fb7513d1e"
     }
   }
 }
